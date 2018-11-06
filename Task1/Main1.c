@@ -5,7 +5,7 @@
 
 int main()
 {
-	FILE *fp_in; // ukazatel faila dlya chteniya
+#	FILE *fp_in; // ukazatel faila dlya chteniya
 	FILE *fp_out; // ukazatel faila dlya zapisi
 
 	int ch = 0; // dlya hraneniya schitannogo simvola
